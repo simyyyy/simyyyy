@@ -6,7 +6,7 @@ A curious coder, a recent master's grad, and someone who still gets excited by a
 
 ## 👩‍💻 About Me
 
-I'm currently making the jump from **Quality Assurance** into **Software Development**, bringing along my love for clean code, test automation, and a slightly unhealthy obsession with debugging edge cases.
+I'm currently into **Software Development**, bringing along my love for clean code, test automation, and a slightly unhealthy obsession with debugging edge cases.
 
 My background is rooted in **testing real-world applications**, writing test cases, chasing down bugs, and collaborating in agile teams. Now, I’m channeling that same hands-on mindset into building full-stack apps — and it’s been a fun ride so far.
 
@@ -16,10 +16,9 @@ My background is rooted in **testing real-world applications**, writing test cas
 
 Things I've used, broken, fixed, and enjoyed:
 
-- **Languages:** JavaScript, Python, Java, HTML, CSS  
+- **Languages:** JavaScript, Python, C++, Swift, MERN Stack  
 - **Frontend:** React, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express, MongoDB, MySQL  
-- **Testing:** Selenium, Postman, JUnit, PyTest  
+- **Backend:** Node.js, Express, MongoDB, MySQL   
 - **Tools:** Git & GitHub, VS Code, Docker (learning), Jira, Linux
 
 I love learning by doing — and by breaking things just enough to fix them better.
