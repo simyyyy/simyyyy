@@ -50,7 +50,7 @@ _(You’ll find these and more in my pinned repos — with lots more to come!)_
 
 If you’re building something cool, solving problems, or just vibing in the dev space — I’m always up for a chat.
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sowmya7/)  
+- [Email](ammusowmya21.as@gmail.com)
 
 Thanks for stopping by!
